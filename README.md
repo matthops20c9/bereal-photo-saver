@@ -31,4 +31,4 @@ python bereal_saver.py sync --output "D:\BeRealArchive"
 
 This will download missing pictures, skip already downloaded ones, and generate a stitched image (e.g., `2024-03-15_stitched.jpg`) along with the raw source files.
 
-<!-- verified: 2026-09-17 -->
+<!-- verified: 2026-09-18 -->
